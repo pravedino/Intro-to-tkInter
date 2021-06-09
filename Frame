@@ -1,2 +1,3 @@
+#Frame
 test_frame = Frame(root, width=500, height=600)
 test_frame.pack()
