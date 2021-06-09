@@ -1,0 +1,7 @@
+# grid() Intro
+one_label = Label(root, text="One", fg="black", bg="red")
+two_label = Label(root, text="Two", fg="black", bg="yellow")
+three_label = Label(root, text="Three", fg="black", bg="blue")
+one_label.grid()
+two_label.grid()
+three_label.grid()
