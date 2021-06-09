@@ -1,0 +1,4 @@
+# Label
+hello_label = Label(root, text="Hello", bg="red", fg="black")
+hello_label.config(text="Hello World")
+hello_label.pack()
