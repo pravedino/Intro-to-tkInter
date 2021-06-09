@@ -1,0 +1,5 @@
+# Button
+def print_hello():
+    print("Hello")
+hello_button = Button(root, text="Hello", command=print_hello)
+hello_button.pack()
